@@ -4,7 +4,7 @@ Apriori algorithm refers to the algorithm which is used to calculate the associa
 
 The primary objective of the apriori algorithm is to create the association rule between different objects. The association rule describes how two or more objects are related to one another.
 
-The Dataset.csv file is used to run the demo.
+The dataset.csv file is used to run the demo.
 
 Submitted-by:
 Smriti Patel
